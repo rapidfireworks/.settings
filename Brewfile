@@ -5,6 +5,7 @@ tap "homebrew/core"
 brew "asdf"
 brew "aws-elasticbeanstalk"
 brew "awscli"
+brew "libpq", link: true
 brew "mas"
 cask "alfred"
 cask "figma"
