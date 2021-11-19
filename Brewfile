@@ -8,6 +8,7 @@ brew "awscli"
 brew "libpq", link: true
 brew "mas"
 cask "alfred"
+cask "docker"
 cask "figma"
 cask "firefox-developer-edition"
 cask "gitkraken"
