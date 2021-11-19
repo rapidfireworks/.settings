@@ -18,4 +18,5 @@ cask "scroll-reverser"
 cask "slack"
 cask "spectacle"
 cask "visual-studio-code"
+mas "KakaoTalk", id: 869223134
 mas "Xcode", id: 497799835
