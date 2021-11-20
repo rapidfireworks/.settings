@@ -11,6 +11,91 @@
         }
     },
     "profileSwitcher.extensions": {
-        "python": []
+        "python": [
+            {
+                "id": "4b41a5a8-170e-4156-b2c0-10efb270abbc",
+                "publisherId": "batisteo.vscode-django",
+                "publisherName": "batisteo",
+                "version": "1.6.0",
+                "name": "vscode-django"
+            },
+            {
+                "id": "0c9f60fd-5588-42f7-9176-e80c3ae111ec",
+                "publisherId": "donjayamanne.python-environment-manager",
+                "publisherName": "donjayamanne",
+                "version": "1.0.3",
+                "name": "python-environment-manager"
+            },
+            {
+                "id": "f5188937-53e0-45bb-a16d-61231003fa3b",
+                "publisherId": "donjayamanne.python-extension-pack",
+                "publisherName": "donjayamanne",
+                "version": "1.7.0",
+                "name": "python-extension-pack"
+            },
+            {
+                "id": "f3cbfb84-b1e1-40ff-b70f-877253461260",
+                "publisherId": "KevinRose.vsc-python-indent",
+                "publisherName": "KevinRose",
+                "version": "1.14.2",
+                "name": "vsc-python-indent"
+            },
+            {
+                "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+                "publisherId": "ms-python.python",
+                "publisherName": "ms-python",
+                "version": "2021.11.1422169775",
+                "name": "python"
+            },
+            {
+                "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+                "publisherId": "ms-python.vscode-pylance",
+                "publisherName": "ms-python",
+                "version": "2021.11.2",
+                "name": "vscode-pylance"
+            },
+            {
+                "id": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8",
+                "publisherId": "ms-toolsai.jupyter",
+                "publisherName": "ms-toolsai",
+                "version": "2021.10.1101450599",
+                "name": "jupyter"
+            },
+            {
+                "id": "9f6dc8db-620c-4844-b8c5-e74914f1be27",
+                "publisherId": "ms-toolsai.jupyter-keymap",
+                "publisherName": "ms-toolsai",
+                "version": "1.0.0",
+                "name": "jupyter-keymap"
+            },
+            {
+                "id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+                "publisherId": "ms-toolsai.jupyter-renderers",
+                "publisherName": "ms-toolsai",
+                "version": "1.0.3",
+                "name": "jupyter-renderers"
+            },
+            {
+                "id": "2d6fea35-f68e-461d-9b7b-5cd05be99451",
+                "publisherId": "njpwerner.autodocstring",
+                "publisherName": "njpwerner",
+                "version": "0.5.4",
+                "name": "autodocstring"
+            },
+            {
+                "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+                "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+                "publisherName": "VisualStudioExptTeam",
+                "version": "1.2.14",
+                "name": "vscodeintellicode"
+            },
+            {
+                "id": "c941a679-d500-46a8-b2a9-208063125901",
+                "publisherId": "wholroyd.jinja",
+                "publisherName": "wholroyd",
+                "version": "0.0.8",
+                "name": "jinja"
+            }
+        ]
     }
 }
