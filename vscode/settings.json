@@ -23,6 +23,13 @@
                 "name": "vscode-django"
             },
             {
+                "id": "8d088af2-ecd1-4b8f-93e9-322125c47b3c",
+                "publisherId": "BriteSnow.vscode-toggle-quotes",
+                "publisherName": "BriteSnow",
+                "version": "0.3.5",
+                "name": "vscode-toggle-quotes"
+            },
+            {
                 "id": "0c9f60fd-5588-42f7-9176-e80c3ae111ec",
                 "publisherId": "donjayamanne.python-environment-manager",
                 "publisherName": "donjayamanne",
