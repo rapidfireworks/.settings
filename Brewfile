@@ -3,6 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 brew "asdf"
+brew "autopep8"
 brew "aws-elasticbeanstalk"
 brew "awscli"
 brew "libpq", link: true
