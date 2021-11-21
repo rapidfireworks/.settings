@@ -7,6 +7,7 @@ brew "aws-elasticbeanstalk"
 brew "awscli"
 brew "libpq", link: true
 brew "mas"
+brew "poetry"
 cask "alfred"
 cask "docker"
 cask "figma"
