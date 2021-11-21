@@ -7,7 +7,10 @@
     "profileSwitcher.storage": {
         "python": {
             "files.autoSave": "onFocusChange",
-            "editor.tabSize": 2
+            "editor.tabSize": 2,
+            "editor.suggestSelection": "first",
+            "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+            "python.formatting.autopep8Path": "/usr/local/bin/autopep8"
         }
     },
     "profileSwitcher.extensions": {
