@@ -2,10 +2,18 @@
     "files.autoSave": "onFocusChange",
     "editor.tabSize": 2,
     "profileSwitcher.profiles": [
-        "python"
+        "python",
+        "docker"
     ],
     "profileSwitcher.storage": {
         "python": {
+            "files.autoSave": "onFocusChange",
+            "editor.tabSize": 2,
+            "editor.suggestSelection": "first",
+            "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+            "python.formatting.autopep8Path": "/usr/local/bin/autopep8"
+        },
+        "docker": {
             "files.autoSave": "onFocusChange",
             "editor.tabSize": 2,
             "editor.suggestSelection": "first",
@@ -105,6 +113,15 @@
                 "publisherName": "wholroyd",
                 "version": "0.0.8",
                 "name": "jinja"
+            }
+        ],
+        "docker": [
+            {
+                "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+                "publisherId": "ms-azuretools.vscode-docker",
+                "publisherName": "ms-azuretools",
+                "version": "1.18.0",
+                "name": "vscode-docker"
             }
         ]
     },
