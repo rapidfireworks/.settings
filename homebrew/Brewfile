@@ -6,6 +6,7 @@ brew "asdf"
 brew "autopep8"
 brew "aws-elasticbeanstalk"
 brew "awscli"
+brew "gnupg"
 brew "libpq", link: true
 brew "mas"
 brew "poetry"
