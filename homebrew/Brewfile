@@ -10,6 +10,7 @@ brew "gnupg"
 brew "libpq", link: true
 brew "mas"
 brew "poetry"
+brew "terraform"
 cask "alfred"
 cask "docker"
 cask "figma"
