@@ -127,5 +127,6 @@
     },
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.formatting.autopep8Path": "/usr/local/bin/autopep8"
+    "python.formatting.autopep8Path": "/usr/local/bin/autopep8",
+    "files.maxMemoryForLargeFilesMB": 10240,
 }
