@@ -7,6 +7,7 @@ brew "autopep8"
 brew "aws-elasticbeanstalk"
 brew "awscli"
 brew "gnupg"
+brew "kubernetes-cli"
 brew "libpq", link: true
 brew "mas"
 brew "poetry"
