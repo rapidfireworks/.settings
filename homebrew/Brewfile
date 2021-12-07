@@ -5,6 +5,7 @@ tap "homebrew/core"
 brew "autopep8"
 brew "aws-elasticbeanstalk"
 brew "awscli"
+brew "fop"
 brew "gnupg"
 brew "kubernetes-cli"
 brew "libpq", link: true
