@@ -173,5 +173,6 @@
     },
     "[kotlin]": {
     "editor.defaultFormatter": "fwcd.kotlin"
-    }
+    },
+    "editor.formatOnSave": true
 }
