@@ -79,6 +79,13 @@
                 "name": "gitlens"
             },
             {
+                "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+                "publisherId": "formulahendry.code-runner",
+                "publisherName": "formulahendry",
+                "version": "0.11.6",
+                "name": "code-runner"
+            },
+            {
                 "id": "c86bc8a9-fd3b-44db-b28a-2d146cb78d3c",
                 "publisherId": "fwcd.kotlin",
                 "publisherName": "fwcd",
