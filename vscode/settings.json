@@ -21,6 +21,9 @@
                     "document"
                 ],
                 "editor.defaultFormatter": "vscode.json-language-features"
+            },
+            "[kotlin]": {
+                "editor.defaultFormatter": "fwcd.kotlin"
             }
         }
     },
@@ -76,6 +79,20 @@
                 "name": "gitlens"
             },
             {
+                "id": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+                "publisherId": "formulahendry.code-runner",
+                "publisherName": "formulahendry",
+                "version": "0.11.6",
+                "name": "code-runner"
+            },
+            {
+                "id": "c86bc8a9-fd3b-44db-b28a-2d146cb78d3c",
+                "publisherId": "fwcd.kotlin",
+                "publisherName": "fwcd",
+                "version": "0.2.23",
+                "name": "kotlin"
+            },
+            {
                 "id": "4a23294b-fd16-4c51-9759-da9936474cf8",
                 "publisherId": "hashicorp.terraform",
                 "publisherName": "hashicorp",
@@ -93,21 +110,21 @@
                 "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
                 "publisherId": "ms-python.python",
                 "publisherName": "ms-python",
-                "version": "2021.11.1422169775",
+                "version": "2021.12.1559732655",
                 "name": "python"
             },
             {
                 "id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
                 "publisherId": "ms-python.vscode-pylance",
                 "publisherName": "ms-python",
-                "version": "2021.12.0",
+                "version": "2021.12.1",
                 "name": "vscode-pylance"
             },
             {
                 "id": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8",
                 "publisherId": "ms-toolsai.jupyter",
                 "publisherName": "ms-toolsai",
-                "version": "2021.10.1101450599",
+                "version": "2021.11.1001550889",
                 "name": "jupyter"
             },
             {
@@ -153,5 +170,9 @@
             "document"
         ],
         "editor.defaultFormatter": "vscode.json-language-features"
-    }
+    },
+    "[kotlin]": {
+    "editor.defaultFormatter": "fwcd.kotlin"
+    },
+    "editor.formatOnSave": true
 }

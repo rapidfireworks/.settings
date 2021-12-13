@@ -76,6 +76,7 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
+source ~/.asdf/plugins/java/set-java-home.zsh
 
 # User configuration
 
