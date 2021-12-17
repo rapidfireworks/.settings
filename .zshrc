@@ -73,6 +73,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
   asdf
   git
+  yarn
 )
 
 source $ZSH/oh-my-zsh.sh
