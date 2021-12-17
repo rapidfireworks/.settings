@@ -13,6 +13,7 @@ brew "libpq", link: true
 brew "mas"
 brew "minikube"
 brew "poetry"
+brew "shared-mime-info"
 brew "terraform"
 brew "unixodbc"
 brew "wxwidgets"
