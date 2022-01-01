@@ -11,7 +11,7 @@
         "revision": "cb1d2ffa858be1171c606179e0ed2a0fe68b03f8"
       },
       "homebrew/core": {
-        "revision": "19cc44afda820c2ed6f0940909fdf18f0465909f"
+        "revision": "d55dfe845a45b7c188bf3c8830347f677960a3d2"
       }
     },
     "brew": {
@@ -715,6 +715,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "obsidian": {
+        "version": "0.13.14",
+        "options": {
+          "full_name": "obsidian"
+        }
       }
     },
     "mas": {
@@ -733,7 +739,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.9",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "19cc44afda820c2ed6f0940909fdf18f0465909f",
+        "Homebrew/homebrew-core": "d55dfe845a45b7c188bf3c8830347f677960a3d2",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.1"
