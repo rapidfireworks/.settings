@@ -172,7 +172,7 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "[kotlin]": {
-    "editor.defaultFormatter": "fwcd.kotlin"
+        "editor.defaultFormatter": "fwcd.kotlin"
     },
     "editor.formatOnSave": true
 }
