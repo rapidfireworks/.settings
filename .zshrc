@@ -75,6 +75,7 @@ plugins=(
   kubectl
   git
   yarn
+  z
 )
 
 source $ZSH/oh-my-zsh.sh
