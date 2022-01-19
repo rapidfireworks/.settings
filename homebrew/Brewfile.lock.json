@@ -2,16 +2,16 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "407dafc7dbdacd1d897cfc79e8c3ab86a859ca71"
+        "revision": "d40b20f64e29453a77290f7c329cf336a59e8b66"
       },
       "homebrew/cask": {
-        "revision": "bd1bda1cbee3f235e47408d8073a004f5f42390e"
+        "revision": "75036449f591a2b77a520e35206db3ebb9aa0f57"
       },
       "homebrew/cask-versions": {
-        "revision": "3489d82712acf877626faa5db2dcba3c219fc1e0"
+        "revision": "2d30480f4e8fd4b4f5af4ef0417d827cc73c27d5"
       },
       "homebrew/core": {
-        "revision": "3b2daec79264bfb3d219544fa4e59db24fa17bb0"
+        "revision": "6cda33d1029e50f013a2e968447ee087dbf7ff98"
       }
     },
     "brew": {
@@ -660,7 +660,7 @@
         }
       },
       "docker": {
-        "version": "4.3.2,72729",
+        "version": "4.4.2,73305",
         "options": {
           "full_name": "docker"
         }
@@ -696,7 +696,7 @@
         }
       },
       "notion": {
-        "version": "2.0.19",
+        "version": "2.0.18",
         "options": {
           "full_name": "notion"
         }
@@ -744,7 +744,7 @@
         }
       },
       "postman": {
-        "version": "9.8.3",
+        "version": "9.9.3",
         "options": {
           "full_name": "postman"
         }
@@ -768,7 +768,7 @@
         }
       },
       "firefox": {
-        "version": "96.0",
+        "version": "96.0.1",
         "options": {
           "full_name": "firefox"
         }
@@ -788,9 +788,9 @@
   "system": {
     "macos": {
       "monterey": {
-        "HOMEBREW_VERSION": "3.3.10",
-        "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "3b2daec79264bfb3d219544fa4e59db24fa17bb0",
+        "HOMEBREW_VERSION": "3.3.11",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "6cda33d1029e50f013a2e968447ee087dbf7ff98",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.1"
