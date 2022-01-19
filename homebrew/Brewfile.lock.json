@@ -5,13 +5,13 @@
         "revision": "d40b20f64e29453a77290f7c329cf336a59e8b66"
       },
       "homebrew/cask": {
-        "revision": "75036449f591a2b77a520e35206db3ebb9aa0f57"
+        "revision": "9c9c4878fc57ab0609e30b263c9b460802674e8f"
       },
       "homebrew/cask-versions": {
-        "revision": "2d30480f4e8fd4b4f5af4ef0417d827cc73c27d5"
+        "revision": "7b3f9324bbfe5c35cad17b74ec5c23b91a908162"
       },
       "homebrew/core": {
-        "revision": "6cda33d1029e50f013a2e968447ee087dbf7ff98"
+        "revision": "af0582ba3f2207c9d78f49d5e046964775149330"
       }
     },
     "brew": {
@@ -666,7 +666,7 @@
         }
       },
       "figma": {
-        "version": "107.1.0",
+        "version": "108.1.0",
         "options": {
           "full_name": "figma"
         }
@@ -790,7 +790,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.11",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "6cda33d1029e50f013a2e968447ee087dbf7ff98",
+        "Homebrew/homebrew-core": "af0582ba3f2207c9d78f49d5e046964775149330",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.1"
