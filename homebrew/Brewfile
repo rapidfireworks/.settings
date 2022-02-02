@@ -40,4 +40,5 @@ cask "spectacle"
 cask "visual-studio-code"
 cask "zoom"
 mas "KakaoTalk", id: 869223134
+mas "Polaris Office", id: 1098211970
 mas "Xcode", id: 497799835
