@@ -10,6 +10,8 @@ brew "awscli"
 brew "direnv"
 brew "exercism"
 brew "fop"
+brew "glib"
+brew "gnutls"
 brew "gnupg"
 brew "kubernetes-cli"
 brew "libpq", link: true
