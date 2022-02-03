@@ -17,7 +17,6 @@ brew "kubernetes-cli"
 brew "libpq", link: true
 brew "mas"
 brew "minikube"
-brew "pipx"
 brew "poetry"
 brew "shared-mime-info"
 brew "terraform"

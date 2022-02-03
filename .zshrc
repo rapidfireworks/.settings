@@ -118,6 +118,3 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# Created by `pipx` on 2022-02-03 03:03:32
-export PATH="$PATH:$HOME/.local/bin"
