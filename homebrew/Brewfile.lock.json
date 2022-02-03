@@ -856,6 +856,12 @@
         "options": {
           "full_name": "intellij-idea-ce"
         }
+      },
+      "pycharm-ce": {
+        "version": "2021.3.2,213.6777.50",
+        "options": {
+          "full_name": "pycharm-ce"
+        }
       }
     },
     "mas": {
