@@ -5,13 +5,13 @@
         "revision": "4b703e446be1d848521b0bdf3e85f36bb3aae1f9"
       },
       "homebrew/cask": {
-        "revision": "83cc998631a2cecbb6910ec76940257894be757a"
+        "revision": "1e752c5b604022fffe36df16410b0dd25514633b"
       },
       "homebrew/cask-versions": {
-        "revision": "35288e140bfe0fbd778efb18bc55f6cd9af5e440"
+        "revision": "273bb4f52223b68fc721e70869bead532156dd1c"
       },
       "homebrew/core": {
-        "revision": "3adf5887c299fcc4df80a866f1781bf168ec7f8e"
+        "revision": "beac0e28196c0a8fb93b467ff2ad81a5197e83c1"
       }
     },
     "brew": {
@@ -815,12 +815,6 @@
           "full_name": "postman"
         }
       },
-      "pycharm-ce": {
-        "version": "2021.3.2,213.6777.50",
-        "options": {
-          "full_name": "pycharm-ce"
-        }
-      },
       "rubymine": {
         "version": "2021.3.2,213.6777.43",
         "options": {
@@ -878,7 +872,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.13",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "3adf5887c299fcc4df80a866f1781bf168ec7f8e",
+        "Homebrew/homebrew-core": "beac0e28196c0a8fb93b467ff2ad81a5197e83c1",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.1"
