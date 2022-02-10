@@ -5,13 +5,13 @@
         "revision": "4b703e446be1d848521b0bdf3e85f36bb3aae1f9"
       },
       "homebrew/cask": {
-        "revision": "d2a705cdda842538d7469e75a610f2b1d78b39a0"
+        "revision": "0bf1a0d68f95a72aec1985bc058df109d48cddb6"
       },
       "homebrew/cask-versions": {
-        "revision": "305b24a34e8a8f01963197a136d8678438be0ef0"
+        "revision": "11e5a5065a89fa09d5220d461ceb084dc469e7bb"
       },
       "homebrew/core": {
-        "revision": "8d8134b33559b76177b82ea609e461715885916b"
+        "revision": "d80ea3de71dcea4dfb53e9be33266d8effca3122"
       }
     },
     "brew": {
@@ -761,12 +761,6 @@
           "full_name": "firefox-developer-edition"
         }
       },
-      "github": {
-        "version": "2.9.6-9196a1ae",
-        "options": {
-          "full_name": "github"
-        }
-      },
       "gitkraken": {
         "version": "8.2.1",
         "options": {
@@ -878,7 +872,7 @@
       "monterey": {
         "HOMEBREW_VERSION": "3.3.14",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "8d8134b33559b76177b82ea609e461715885916b",
+        "Homebrew/homebrew-core": "d80ea3de71dcea4dfb53e9be33266d8effca3122",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.1"
