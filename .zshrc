@@ -122,3 +122,4 @@ fi
 alias tu="arch -x86_64 tuist"
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 export PATH="$PATH":"$HOME/fvm/default/bin"
+export PATH="$PATH":"$HOME/.rd/bin"
